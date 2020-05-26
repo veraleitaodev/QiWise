@@ -217,6 +217,9 @@ hr.light-100 {
     .jumbotron p.lead {
         font-size: 16px;
     }
+    .carousel-indicators {
+        display: none;
+    }
    
 }
 
